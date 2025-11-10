@@ -11,15 +11,6 @@ File kedua (`latihan2.php`) berisi latihan lanjutan seperti penggunaan kondisi, 
 
 ---
 
-## Struktur File
-
-| Nama File | Deskripsi |
-|------------|------------|
-| `php_dasar.php` | Berisi contoh dasar PHP seperti variabel, operator aritmatika, dan perintah `echo`. |
-| `latihan2.php` | Berisi latihan lanjutan yang menggunakan `if`, `else`, `for`, `while`, dan fungsi sederhana. |
-
----
-
 ## Penjelasan Kode
 
 ### 1. **File: php_dasar.php**
